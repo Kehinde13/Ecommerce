@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
-
-*{
-  border: 1px solid red;
-}
-
 body{
   margin: 0px auto;
   width: 375px;
@@ -330,7 +325,7 @@ hr {
     left: 0px;
     right: 0px;
     width: 100%;
-    opacity: 0.8;
+    opacity: 0.9;
   }
 
   .lightbox .product, .close, .previous, .next {
@@ -402,6 +397,16 @@ hr {
     width: 30%;
     left: 800px;
     top: 50px;
+  }
+
+  .toggleBasket {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .toggleBasket img {
+    align-self: center;
+    margin-right: 10px;
   }
 
   /* CART BUTTON DESIGN */
