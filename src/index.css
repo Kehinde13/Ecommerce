@@ -326,6 +326,7 @@ hr {
     right: 0px;
     width: 100%;
     opacity: 0.9;
+    height: 100vh;
   }
 
   .lightbox .product, .close, .previous, .next {
