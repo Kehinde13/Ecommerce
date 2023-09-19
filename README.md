@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Kehinde13/E-commerce)
-- Live Site URL: (https://kehinde13.github.io/E-commerce/)
+- [Solution URL](https://github.com/Kehinde13/E-commerce)
+- [Live Site URL](https://kehinde13.github.io/E-commerce/)
 
 
 ## My process
